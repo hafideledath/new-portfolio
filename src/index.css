@@ -28,6 +28,6 @@ div[style*="background-image: url"] {
   cursor: url('./assets/arrow.svg') 5 -5, auto !important;
 }
 
-button, a, [role="button"], .icon-item, .icon-item *, .icon-item:hover, .icon-item *:hover, .clickable, input[type="button"], input[type="submit"], label[for], select, summary, [tabindex]:not([tabindex="-1"]):hover, .windows-control * {
+button, a, [role="button"], .icon-item, .icon-item *, .icon-item:hover, .icon-item *:hover, .modal-icon-item, .modal-icon-item *, .modal-icon-item:hover, .modal-icon-item *:hover, .clickable, input[type="button"], input[type="submit"], label[for], select, summary, [tabindex]:not([tabindex="-1"]):hover, .windows-control * {
   cursor: url('./assets/hand.svg') 5 -5, pointer !important;
 }
