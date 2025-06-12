@@ -46,21 +46,29 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
       icon: fileIcon,
       title: 'Education',
       filename: 'education.txt',
-      description: `- Currently taking the IB Diploma Programme with 4 HLs (including Math AA, Physics, and Chemistry) with a predicted 39/42 with 777 in the STEM HLs.
-- Took Set Theory: The Dazzling Foundation of Abstract Mathematics in person at Summer@Brown (passed, no letter grades)
-- Took CS50x (Harvard's introductory programming course via EDx) and CS50P (CS50x's Python extension) (passed, no letter grades)`
+      description: (
+        <>
+          <span>- Currently taking the IB Diploma Programme with 4 HLs (including Math AA, Physics, and Chemistry) with a predicted 39/42 with 777 in the STEM HLs.</span><br />
+          <span>- Took Set Theory: The Dazzling Foundation of Abstract Mathematics in person at Summer@Brown (passed, no letter grades)</span><br />
+          <span>- Took CS50x (Harvard's introductory programming course via EDx) and CS50P (CS50x's Python extension) (passed, no letter grades)</span>
+        </>
+      )
     },
     {
       icon: fileIcon,
       title: 'Awards & Honors',
       filename: 'awards.txt',
-      description: `- Sheikh Hamdan Award For Distinguished Students, 26th Cycle
-- Sharjah Award for Educational Excellence, 30th Cycle
-- ALPHA (Advanced Learning Program for High Achievers) Most Distinguished Student of the Year, 2023-24
-- Johns Hopkins' Center for Talented Youth Award of High Honors, 2022
-- DP Math AA HL Excellence Achievement Award, 2025
-- MYP Extended Math Excellence Achievement Award, 2023, 2024
-- MYP Digital Design Excellence Achievement Award, 2023, 2024`,
+      description: (
+        <>
+          <span>- Sheikh Hamdan Award For Distinguished Students, 26th Cycle</span><br />
+          <span>- Sharjah Award for Educational Excellence, 30th Cycle</span><br />
+          <span>- ALPHA (Advanced Learning Program for High Achievers) Most Distinguished Student of the Year, 2023-24</span><br />
+          <span>- Johns Hopkins' Center for Talented Youth Award of High Honors, 2022</span><br />
+          <span>- DP Math AA HL Excellence Achievement Award, 2025</span><br />
+          <span>- MYP Extended Math Excellence Achievement Award, 2023, 2024</span><br />
+          <span>- MYP Digital Design Excellence Achievement Award, 2023, 2024</span>
+        </>
+      ),
     },
     {
       icon: folderIcon,
@@ -157,20 +165,28 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
           icon: fileIcon,
           title: 'Experience > roles.txt',
           filename: 'roles.txt',
-          description: `- Head of Technology of my school's annual hackathon, DI@TECH; created and currently maintaining an accessible website used by hundreds of participants and visitors.
-- Intern for the educational center, Fun Robotics, where I assisted in teaching young children about Python programming and lego robotics while training under their proprietary data science and machine learning courses.
-- Head of Teaching for CodeCrafters, my school's coding club; collaborated with peers to create weekly lesson plans about a variety of programming topics, giving additional support to students that showed keen interest.
-- 'Gamemaster' for my school's history club, developing web-software to help students prepare for the annual History Bowl competition using thousands of scraped questions. Used nltk to identify common nouns and phrases.`
+          description: (
+            <>
+              <span>- Head of Technology of my school's annual hackathon, DI@TECH; created and currently maintaining an accessible website used by hundreds of participants and visitors.</span><br />
+              <span>- Intern for the educational center, Fun Robotics, where I assisted in teaching young children about Python programming and lego robotics while training under their proprietary data science and machine learning courses.</span><br />
+              <span>- Head of Teaching for CodeCrafters, my school's coding club; collaborated with peers to create weekly lesson plans about a variety of programming topics, giving additional support to students that showed keen interest.</span><br />
+              <span>- 'Gamemaster' for my school's history club, developing web-software to help students prepare for the annual History Bowl competition using thousands of scraped questions. Used nltk to identify common nouns and phrases.</span>
+            </>
+          )
         },
         {
           icon: fileIcon,
           title: 'Experience > competitions.txt',
           filename: 'competitions.txt',
-          description: `- Global finalist of the Uber Global Hackathon, placing in the top 3.8% of 2,500+ competitors.
-- 2x winner of my school's annual programming competition, DI@BYTE, in 2023 and 2024.
-- Placed in the top 10 out of over 200 students in the Next Gen World Majlis in 2025, a public speaking and research competition with the theme of self-driving cars.
-- Won the my school's annual backend programming competition at the DI@TECH hackathon in 2023, winning an internship.
-- Solved 9 out of 9 puzzles in the 2025 CS50 Puzzle Day, placing in the top 10% of 12,000+ teams.`
+          description: (
+            <>
+              <span>- Global finalist of the Uber Global Hackathon, placing in the top 3.8% of 2,500+ competitors.</span><br />
+              <span>- 2x winner of my school's annual programming competition, DI@BYTE, in 2023 and 2024.</span><br />
+              <span>- Placed in the top 10 out of over 200 students in the Next Gen World Majlis in 2025, a public speaking and research competition with the theme of self-driving cars.</span><br />
+              <span>- Won the my school's annual backend programming competition at the DI@TECH hackathon in 2023, winning an internship.</span><br />
+              <span>- Solved 9 out of 9 puzzles in the 2025 CS50 Puzzle Day, placing in the top 10% of 12,000+ teams.</span>
+            </>
+          )
         }
       ]
     },
@@ -185,11 +201,15 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
           icon: fileIcon,
           title: 'Fun Stuff > hobbies.txt',
           filename: 'hobbies.txt',
-          description: `My life isn\'t just about programming. I also like to...
-- Play open-world (often indie) games (Red Dead Redemption, Zelda, A Short Hike, Firewatch, Later Alligator)
-- Learn Toki Pona to conspire with friends
-- Write and publish poetry; host poetry events
-- Read and learn about world history; participate in history / academic bowls`,
+          description: (
+            <>
+              My life isn't just about programming. I also like to...<br />
+              <span>- Play open-world (often indie) games (Red Dead Redemption, Zelda, A Short Hike, Firewatch, Later Alligator)</span><br />
+              <span>- Learn Toki Pona to conspire with friends</span><br />
+              <span>- Write and publish poetry; host poetry events</span><br />
+              <span>- Read and learn about world history; participate in history / academic bowls</span>
+            </>
+          ),
         },
         {
           icon: terminalIcon,
