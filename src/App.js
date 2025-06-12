@@ -207,7 +207,7 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
               <span>- Play open-world (often indie) games (Red Dead Redemption, Zelda, A Short Hike, Firewatch, Later Alligator)</span><br />
               <span>- Learn Toki Pona to conspire with friends</span><br />
               <span>- Write and publish poetry; host poetry events</span><br />
-              <span>- Read and learn about world history; participate in history / academic bowls</span>
+              <span>- Read and learn about world history; participate in history / academic bowls. Our team's #1 in the country!</span>
             </>
           ),
         },
