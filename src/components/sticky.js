@@ -17,7 +17,7 @@ const Sticky = () => {
         <span>×</span> 
       </button>
       <p>Navigate by clicking through the files.</p><br /><br />
-      <p>You can contact me at <a href="mailto:hafideledath@gmail.com">hafideledath@gmail.com</a>.</p>
+      <p>You can contact me at hafideledath AT gmail DOT com.</p>
     </div>
   );
 };

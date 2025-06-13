@@ -111,7 +111,7 @@ const Donut = () => {
           if (luminance > 0) {
             ctx.font = `bold ${charSize}px Consolas`;
             ctx.fillStyle = 'white';
-            const chars = ".,~;=*$%#@";
+            const chars = ".~;=*$%#@";
             ctx.fillText(chars[round(luminance * (chars.length - 1))], x * charSpacing, y * charSize);
           }
         }
