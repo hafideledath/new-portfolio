@@ -48,7 +48,7 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
       filename: 'education.txt',
       description: (
         <>
-          <span>- Currently taking the IB Diploma Programme with 4 HLs (including Math AA, Physics, and Chemistry) with a predicted 39/42 with 777 in the STEM HLs.</span><br />
+          <span>- Currently taking the IB Diploma Programme with 4 HLs (including Math AA, Physics, and Chemistry) with a predicted 41/42 with 7776 in the HLs.</span><br />
           <span>- Took Set Theory: The Dazzling Foundation of Abstract Mathematics in person at Summer@Brown (passed, no letter grades)</span><br />
           <span>- Took CS50x (Harvard's introductory programming course via EDx) and CS50P (CS50x's Python extension) (passed, no letter grades)</span>
         </>
