@@ -60,8 +60,9 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
       filename: 'awards.txt',
       description: (
         <>
-          <span>- Sheikh Hamdan Award For Distinguished Students, 26th Cycle</span><br />
           <span>- Sharjah Award for Educational Excellence, 30th Cycle</span><br />
+          <span>- Sheikh Hamdan Award For Distinguished Students, 26th Cycle</span><br />
+          <span>- Innoventures Education Distinguished Student Award, 2025-2026</span><br />
           <span>- ALPHA (Advanced Learning Program for High Achievers) Most Distinguished Student of the Year, 2023-24</span><br />
           <span>- Johns Hopkins' Center for Talented Youth Award of High Honors, 2022</span><br />
           <span>- DP Math AA HL Excellence Achievement Award, 2025</span><br />
