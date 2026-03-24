@@ -120,7 +120,7 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
                   icon: fileIcon,
                   title: 'Experience > Projects > LLM Projects > poetryBook.txt',
                   filename: 'poetryBook.txt',
-                  description: 'Toltecatl and SAPIEN is an upcoming poetry anthology about a man named Toltecatl and an LLM named SAPIEN, consisting of back-and-forth epistolary poems. The verses by SAPIEN are written by an actual LLM finetuned extensively on my poetry and prompted on poetic conventions.'
+                  description: 'An anthology and experiment with generative AI that discusses the ethics of AI in art. Check it out! toltecatl.hafideledath.com'
                 }
               ]
             },
