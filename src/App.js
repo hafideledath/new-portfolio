@@ -49,7 +49,8 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
       description: (
         <>
           <span>- Starting July, I'll be a student at Deep Springs College.</span><br />
-          <span>- I took the IB Diploma Programme with 4 HLs (Math AA, Physics, Chemistry, and History) at Dubai International Academy</span>
+          <span>- Before that, I took the IB Diploma Programme with 4 HLs (Math AA, Physics, Chemistry, and History) at Dubai International Academy</span><br />
+          <span>- Other than that, I'm mostly self taught, having taken online courses such as CS50x.</span>
         </>
       )
     },
