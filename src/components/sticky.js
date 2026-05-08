@@ -18,7 +18,6 @@ const Sticky = () => {
       </button>
       <p>Navigate by clicking through the files.</p><br /><br />
       <p>You can contact me at hafideledath AT gmail DOT com.</p><br /><br />
-      <p>Oh, and hello, admissions officer. Hope you're having a nice day.</p>
     </div>
   );
 };
