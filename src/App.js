@@ -116,8 +116,8 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
                 },
                 {
                   icon: fileIcon,
-                  title: 'Experience > Projects > LLM Projects > poetryBook.txt',
-                  filename: 'poetryBook.txt',
+                  title: 'Experience > Projects > LLM Projects > poetryTest.txt',
+                  filename: 'poetryTest.txt',
                   description: (
                     <>
                       An anthology and experiment with generative AI that discusses the ethics of AI in art. Check it out! <a href="https://toltecatl.hafideledath.com" target="_blank" rel="noopener noreferrer">toltecatl.hafideledath.com</a>
