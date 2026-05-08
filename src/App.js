@@ -14,6 +14,7 @@ import katKlub from './assets/katklub.png';
 import binBot from './assets/binbot.png';
 import diapair from './assets/diapair.png';
 import duckDebugger from './assets/duckdebugger.png';
+import toltecatl from './assets/toltecatl.png';
 
 function App() {
   const playSound = (soundFile, volume = 1.0) => {
@@ -117,7 +118,13 @@ Sound effects sourced from u_edtmwfwu7c and 666HeroHero.`,
                   icon: fileIcon,
                   title: 'Experience > Projects > LLM Projects > poetryBook.txt',
                   filename: 'poetryBook.txt',
-                  description: 'An anthology and experiment with generative AI that discusses the ethics of AI in art. Check it out! toltecatl.hafideledath.com'
+                  description: (
+                    <>
+                      An anthology and experiment with generative AI that discusses the ethics of AI in art. Check it out! <a href="https://toltecatl.hafideledath.com" target="_blank" rel="noopener noreferrer">toltecatl.hafideledath.com</a>
+                      <br />
+                      <img src={toltecatl} alt="Toltecatl and SAPIEN Screenshot" style={{ maxWidth: '100%', height: 'auto', marginTop: '10px', display: 'block' }} />
+                    </>
+                  )
                 }
               ]
             },
